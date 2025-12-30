@@ -2,6 +2,8 @@
 
 This repository contains Kubernetes manifests for testing ArgoCD deployments across multiple clusters and environments.
 
+**For detailed architecture, testing scenarios, and development information, see [claude.md](./claude.md).**
+
 ## Structure
 
 ```
